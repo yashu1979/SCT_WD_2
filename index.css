@@ -93,4 +93,5 @@ button:hover {
 }
 
 #laps div:last-child {
-    border-
+    border-bottom: none;
+}
